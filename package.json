@@ -1,36 +1,24 @@
 {
   "dependencies": {
     "loadash": "^1.0.0",
-<<<<<<< HEAD
     "normalize.css": "^8.0.1",
     "webpack": "^5.73.0"
-=======
-    "normalize.css": "^8.0.1"
->>>>>>> 8490f304622ff227d2626e4aa3b64549d896af5a
   },
   "name": "test-repo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "dev": "webpack serve",
-=======
->>>>>>> 8490f304622ff227d2626e4aa3b64549d896af5a
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "git+https://github.com/vivka7/travel-site.git"
-=======
-    "url": "git+https://github.com/vivka7/test-repo.git"
->>>>>>> 8490f304622ff227d2626e4aa3b64549d896af5a
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-<<<<<<< HEAD
     "url": "https://github.com/vivka7/travel-site/issues"
   },
   "homepage": "https://github.com/vivka7/travel-site#readme",
@@ -47,10 +35,4 @@
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.9.3"
   }
-=======
-    "url": "https://github.com/vivka7/test-repo/issues"
-  },
-  "homepage": "https://github.com/vivka7/test-repo#readme",
-  "description": ""
->>>>>>> 8490f304622ff227d2626e4aa3b64549d896af5a
 }

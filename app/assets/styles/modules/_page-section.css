@@ -9,4 +9,8 @@
         background-color: $mainBlue;
         color: #FFF;
     }
+
+    &__icon {
+        margin-right: .5rem;
+    }
 }
